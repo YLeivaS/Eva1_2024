@@ -1,0 +1,11 @@
+name = input("Ingrese su nombre: ")
+lastname = input("Ingrese su apellido: ")
+career = input("Ingrese el nombre de la carrera que estudia: ")
+subject = input("Ingrese el nombre de la asignatura: ")
+campus = input("Ingrese la sede de Inacap en la que estudia: ")
+semester = input("Ingrese el semestre que esta cursando: ")
+year = input("Ingrese el año actual: ")
+city = input("Ingrese la ciudad en donde estudia: ")
+age = input("Ingrese su edad: ")
+
+print("Hola",name,lastname,"eres un estudiante de la carrera de",career,"que esta cursando la asignatura",subject,"en",city,"en la sede de Inacap",campus,"que esta cursando el semestre numero",semester,"en el año",year,"con",age,"años")
